@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there 👋
+My name is Dvir,
+I'm a data scientist and electrical engineer⚡⚡
+Take a look on my kaggle account: https://www.kaggle.com/dvircohen0
